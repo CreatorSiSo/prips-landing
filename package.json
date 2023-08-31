@@ -1,7 +1,7 @@
 {
-  "name": "@onwidget/astrowind",
-  "description": "A template to make your website using Astro + Tailwind CSS.",
-  "version": "1.0.0-beta.1",
+  "name": "@prips/landing",
+  "description": "Landing page for prips.xyz",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "astro dev",
